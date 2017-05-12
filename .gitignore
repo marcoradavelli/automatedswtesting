@@ -1,0 +1,13 @@
+*.lyx~
+*.cls
+*.pdf
+*.blg
+*.bbl
+*.pydevproject
+*.odg#
+*.log
+*.aux
+*.gz
+*.out
+.Rproj.user
+*.class
